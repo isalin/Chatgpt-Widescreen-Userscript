@@ -1,0 +1,1 @@
+# simple-chatgpt-widescreen-userscript
