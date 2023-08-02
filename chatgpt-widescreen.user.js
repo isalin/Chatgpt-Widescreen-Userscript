@@ -16,6 +16,7 @@
         .self-end {
             right: 2em!important;
             top: unset!important;
+            bottom: 1rem!important
         }
     `;
 
